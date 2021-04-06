@@ -5,5 +5,5 @@ Deploy the full-stack sample below that will give you a starter Chakra UI projec
 
 ## Deploy this full-stack app to your AWS account
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/swaminator/amplify-cms-demo)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/swaminator/amplify-datamanager-demo)
 
