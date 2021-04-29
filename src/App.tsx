@@ -44,7 +44,7 @@ function App() {
       <Thead bg={mode('gray.50', 'gray.800')}>
       <Tr>
       <Th>Name</Th>
-      <Th>Description</Th>
+      <Th>Description Field</Th>
       <Th >Date</Th>
     </Tr>
       </Thead>
